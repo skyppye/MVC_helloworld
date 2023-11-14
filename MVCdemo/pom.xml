@@ -48,6 +48,7 @@
 					<image>
 						<builder>paketobuildpacks/builder-jammy-base:latest</builder>
 					</image>
+					<mainClass>com.example.MVCdemo.MvCdemoApplication</mainClass>
 				</configuration>
 			</plugin>
 		</plugins>
